@@ -1,4 +1,5 @@
 #Screen-shots of the project
+
 #Home
 ![Screenshot (1)](https://github.com/akalyakrish/ginger-media/assets/159030623/91982ac6-5a61-4926-af67-d2d37a8b1c90)
 
